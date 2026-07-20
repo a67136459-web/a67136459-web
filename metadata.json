@@ -1,0 +1,6 @@
+{
+  "name": "مكتب الموثق بن علي علي",
+  "description": "الموقع الرسمي لمكتب الموثق المعتمد بن علي علي بالجزائر - خدمات توثيق العقود، الهبة، الوكالات والشركات مع دليل الوثائق المطلوبة واستشارات توثيقية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
